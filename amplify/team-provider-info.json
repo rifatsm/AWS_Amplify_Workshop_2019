@@ -9,6 +9,11 @@
             "UnauthRoleName": "bookapp-master-20190830095552-unauthRole",
             "StackName": "bookapp-master-20190830095552",
             "StackId": "arn:aws:cloudformation:us-east-1:903817371220:stack/bookapp-master-20190830095552/e15a0210-cb2d-11e9-8b49-0a16600979f0"
+        },
+        "categories": {
+            "auth": {
+                "bookappe46c53c5": {}
+            }
         }
     }
 }

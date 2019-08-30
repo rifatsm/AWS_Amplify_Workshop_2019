@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"bookappe46c53c5": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
